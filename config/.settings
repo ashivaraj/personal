@@ -1,0 +1,19 @@
+{
+    "username": "anil.shivaraj@gmail.com.personal", 
+    "environment": "developer", 
+    "project_name": "Personal Dev", 
+    "workspace": "C:\\Users\\ashivaraj\\Mavensmate", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "MISTYTYOROWFHUL3U1LT4LKS1Q6CWLDZ", 
+    "metadata_container": "1dc36000000Egk5AAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
